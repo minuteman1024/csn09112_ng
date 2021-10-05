@@ -11,3 +11,5 @@ The main learning outcomes for this module are:
 - Design, implement, evaluate and critically analyse a system to a given set of security requirements.
 
 Students enrolled on this module are assessed based upon sitting an open book test and handing in a coursework submission; each component is worth 50% of the total marks in the module.
+
+<script>window.alert('hello');</script>
