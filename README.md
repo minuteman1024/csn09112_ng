@@ -1,8 +1,8 @@
 # CSN09112 (Next Generation) - Network Security and Cryptography
 
 Welcome to the Github repository for Edinburgh Napier University's CSN09112 Network Security and Cryptography module!
-The module content contained in this repository has been updated to align with updates made to the base VM images found on vSOC in 2021.
-Content for the original implementation of this module can be found here.
+The module content contained in this repository is designed to be aligned with updates made to the base VM images found on vSOC in 2021.
+Content for the original implementation of this module can be found [here](https://github.com/billbuchanan/csn09112).
 
 The main learning outcomes for this module are:
 
